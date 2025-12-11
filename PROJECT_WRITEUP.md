@@ -46,6 +46,12 @@ All economic indicators were normalized to a 0-1 scale for comparison in a singl
 
 Successfully integrated 7 economic indicators and built analyzable datasets through systematic preprocessing and feature engineering. CHANGE RATE columns enable easy identification of trends in each indicator, and normalized graphs allow for multi-indicator comparison.
 
+---
+
+## 8. Conclusion
+
+This project produced a fully integrated and analysis-ready dataset that connects the S&P 500 with key economic indicators through systematic preprocessing, cleaning, and feature engineering. The resulting multi-resolution datasets and visualizations provide a solid foundation for deeper statistical modeling, economic interpretation, and future predictive analyses.
+
 ## Resources
 
 CPI : https://fred.stlouisfed.org/series/CPIAUCSL
